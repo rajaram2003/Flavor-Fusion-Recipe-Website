@@ -23,7 +23,7 @@ const Navbar = () => {
                         <a href="/#recipes">Explore</a>
                     </li>
                     <li>
-                        <a href="/favorites">Favorites</a>
+                        <a href="/">Favorites</a>
                     </li>
                 </ul>
 
